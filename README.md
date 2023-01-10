@@ -1,6 +1,6 @@
 # Alarm-Clock-Using-Python
 About The Python Project:
-It includes some essential libraries such as Date time and TKinter, which assist us in constructing a project utilizing the current date and time. 
+   It includes some essential libraries such as Date time and TKinter, which assist us in constructing a project utilizing the current date and time. 
 
 Prerequisites:
 This project requires good knowledge of Python and GUI (Graphic User Interface). By combining Python and Tkinter, you can create GUI applications quickly and easily. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit. All modules used do not need to be pre-downloaded like other libraries such as NumPy, making this project easy to use and accessible in any virtual environment used for Python programming.
@@ -18,7 +18,7 @@ Time module in Python provides varied time-related functions. This module comes 
 4.Datetime and time modules -
  These modules will allow us to handle dates and times and help us manipulate them whenever required.The main focus of datetime is to form it simpler to access   attributes of the thing associated with dates, times, and time zones.
 
-Winsound module -
+5.Winsound module -
  The winsound module provides access to the essential sound-playing machinery provided by Windows platforms. It includes functions and a number of other constants.
 
 
